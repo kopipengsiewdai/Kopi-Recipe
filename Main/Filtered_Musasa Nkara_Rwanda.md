@@ -1,11 +1,10 @@
-Musasa Nkara
+# Musasa Nkara
 
 Supplier: Chye Seng Huat Hardware (PPP Coffee)
 Country of Origin: Rwanda
 Price: ??
 
-Recipe Log
-
+# Recipe Log
 Method: Filtered
 Grinder: Fellow Ode 2
 Grind: 5
